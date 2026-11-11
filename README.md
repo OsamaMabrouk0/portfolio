@@ -1,129 +1,88 @@
-<div align="center">
+# O_M Portfolio
 
-# أسامة مبروك | O_M Portfolio
+**Personal portfolio of Osama Mabrouk — Flutter, Front-End, and Back-End Developer.**
 
-### مساحة رقمية لعرض الأعمال، الخبرات، والمشاريع البرمجية
+A lightweight, responsive portfolio website built to present selected projects, technical skills, and ways to get in touch. The portfolio brings web applications and mobile development work together in one place, with direct links to live projects, available app downloads, and source repositories.
 
-<p>
-  <strong>Flutter Developer</strong> ·
-  <strong>Front-End Developer</strong> ·
-  <strong>Back-End Developer</strong>
-</p>
-
-<p>
-  <a href="https://osamamabrouk0.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Live%20Portfolio-Visit-ef4b2b?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Portfolio">
-  </a>
-  <a href="https://github.com/osamamabrouk0">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
-
-</div>
+**Live website:** [O_M Portfolio](https://osamamabrouk0.github.io/Portfolio/)  
+**GitHub profile:** [github.com/osamamabrouk0](https://github.com/osamamabrouk0)
 
 ---
 
-## 👋 نبذة عن المشروع
+## Overview
 
-مرحبًا بك في المستودع البرمجي لموقعي الشخصي **O_M Portfolio**؛ مساحة تجمع أعمالي ومهاراتي ومشاريعي في مكان واحد، وتعرض رحلتي في تطوير الويب وتطبيقات Flutter.
+The website is designed as a central point of reference for my development work. It introduces my technical focus, highlights selected projects, and makes it easy to explore each project's available versions and resources.
 
-يهدف الموقع إلى تقديم تجربة واضحة لاستكشاف المشاريع، والتعرّف على التقنيات التي أستخدمها، والوصول إلى نسخ الويب والتطبيقات والأكواد المتاحة.
+The implementation is intentionally lightweight: it uses standard web technologies and does not require a JavaScript framework, package installation, or a build process.
 
-## 🖼️ معاينة من المشاريع
+## Highlights
 
-لقطات من مشروع **دُفعتنا** المعروض ضمن قسم المشاريع:
+- Responsive layout for desktop, tablet, and mobile screens.
+- Arabic-first interface with right-to-left layout support.
+- Dedicated sections for profile information, skills, projects, and contact details.
+- Project links grouped by platform and release where applicable.
+- Lightweight interactions and visual transitions using vanilla JavaScript.
+- No framework or build tooling required.
 
-<p align="center">
-  <img src="./assets/dof3tna/student-1.jpg" alt="دُفعتنا - واجهة الطالب 1" width="30%">
-  <img src="./assets/dof3tna/student-2.jpg" alt="دُفعتنا - واجهة الطالب 2" width="30%">
-  <img src="./assets/dof3tna/student-3.jpg" alt="دُفعتنا - واجهة الطالب 3" width="30%">
-</p>
-<p align="center">
-  <img src="./assets/dof3tna/student-4.jpg" alt="دُفعتنا - واجهة الطالب 4" width="30%">
-  <img src="./assets/dof3tna/admin-1.jpg" alt="دُفعتنا - لوحة الإدارة 1" width="30%">
-  <img src="./assets/dof3tna/admin-2.jpg" alt="دُفعتنا - لوحة الإدارة 2" width="30%">
-</p>
+## Featured Projects
 
-> الصور مرتبطة بمسارات نسبية داخل المستودع. ارفع مجلد `assets` مع `README.md` للحفاظ على ظهورها في GitHub.
+### Dof3tna — Student Platform
 
-## ✨ المميزات
+A student-focused platform that brings academic resources and useful university information together. The project has evolved through multiple releases across web and Android.
 
-- تصميم عربي يدعم اتجاه RTL.
-- واجهة متجاوبة مع الهواتف والأجهزة اللوحية وشاشات الكمبيوتر.
-- أقسام للتعريف الشخصي والمهارات والمشاريع.
-- عرض منظم للمشاريع وروابط المواقع والتطبيقات والأكواد المتاحة.
-- حركات وانتقالات بصرية خفيفة لتحسين تجربة الاستخدام.
+| Release | Live version | Android app | Source code |
+|---|---|---|---|
+| V1 | [Open website](https://osamamabrouk0.github.io/DOF3TNA/) | [Download APK](https://github.com/OsamaMabrouk0/DOF3TNA-V1-App/releases/download/v1.0.0/DOF3TNA-v1.apk) | [Android app repository](https://github.com/OsamaMabrouk0/DOF3TNA-V1-App) |
+| V2 | [Open website](https://osamamabrouk0.github.io/DOF3TNA-V2/) | [Download APK](https://github.com/OsamaMabrouk0/DOF3TNA-v2-App/releases/download/v2.0.0/DOF3TNA-v2.apk) | [Web repository](https://github.com/OsamaMabrouk0/DOF3TNA-V2) · [Android app repository](https://github.com/OsamaMabrouk0/DOF3TNA-v2-App) |
+| V3 | [Open website](https://osamamabrouk0.github.io/DOF3TNA-V3/) | — | — |
+| V4 | [Open website](https://dof3tna.great-site.net/) | [Download APK](https://dof3tna.great-site.net/dof3tna.apk) | Source code not publicly available |
 
-## 🧰 التقنيات المستخدمة
+### Dof3tna Store
 
-| التقنية | الاستخدام |
-|---|---|
-| HTML5 | بناء هيكل الصفحة |
-| CSS3 | التصميم والتخطيطات والتجاوب |
-| JavaScript | التفاعلات وسلوك عناصر الواجهة |
-| Google Fonts | الخطوط العربية واللاتينية |
+A companion storefront for the Dof3tna project.
 
-المشروع صفحة ويب مستقلة ولا يحتاج إلى إطار عمل أو خطوات بناء (Build).
+- [Visit the store](http://dof3tna-store.great-site.net/)
+- Source code is not publicly available.
 
-## 🚀 تشغيل المشروع محليًا
+### Link-Box
 
-1. حمّل المستودع أو انسخه إلى جهازك.
-2. افتح مجلد `pro-main`.
-3. افتح ملف `index.html` في المتصفح.
+A web application for collecting and organizing useful links in one place.
 
-يمكنك أيضًا فتح المجلد باستخدام Visual Studio Code وتشغيله عبر إضافة Live Server.
+- [Open Link-Box](https://osamamabrouk0.github.io/Link-Box/)
+- [View source code](https://github.com/OsamaMabrouk0/Link-Box)
 
-## 📁 هيكل المشروع
+> The links above are provided for convenience. Availability and download access are controlled by their respective hosting platforms.
+
+## Technology Stack
+
+### This portfolio website
+
+- **HTML5** — semantic page structure.
+- **CSS3** — layout, styling, responsiveness, and visual effects.
+- **JavaScript** — client-side interactions.
+- **Google Fonts** — typography.
+
+### Development areas represented in the portfolio
+
+- **Front End:** HTML, CSS, and JavaScript.
+- **Back End:** PHP and MySQL.
+- **Mobile:** Flutter and Dart.
+- **Additional tools:** Python, Photoshop, Illustrator, and Visual Studio Code.
+
+## Run Locally
+
+No installation or build step is needed.
+
+1. Clone or download this repository.
+2. Open the project folder.
+3. Launch `index.html` in your browser.
+
+For local development, you can open the folder in Visual Studio Code and use the Live Server extension.
+
+## Project Structure
 
 ```text
 pro-main/
-├── assets/
-│   └── dof3tna/
-│       ├── student-1.jpg
-│       ├── student-2.jpg
-│       ├── student-3.jpg
-│       ├── student-4.jpg
-│       ├── admin-1.jpg
-│       ├── admin-2.jpg
-│       └── cv/
-│           └── Osama-Mabrouk-CV.pdf
-├── index.html
-└── README.md
-```
-
-## 🛠️ التعديل والتخصيص
-
-- **المحتوى:** عدّل النصوص والبيانات داخل `index.html`.
-- **التصميم:** راجع قواعد CSS الموجودة داخل الملف.
-- **التفاعلات:** راجع JavaScript الموجود داخل الملف.
-- **الصور:** ضع الصور داخل `assets/dof3tna/` واستخدم أسماء الملفات ومساراتها الصحيحة.
-- **المشاريع:** حدّث بيانات المشاريع وروابطها، ثم اختبر الروابط بعد التعديل.
-
-## 🌐 الموقع المباشر
-
-<p align="center">
-  <a href="https://osamamabrouk0.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/OPEN-PORTFOLIO-ef4b2b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Portfolio">
-  </a>
-</p>
-
-**رابط الموقع:** [O_M Portfolio](https://osamamabrouk0.github.io/Portfolio/)
-
-## 👨‍💻 عن المطوّر
-
-**أسامة مبروك | Osama Mabrouk**
-
-مطور واجهات أمامية وخلفية، ومطور تطبيقات Flutter، مهتم ببناء منتجات رقمية عملية وتجارب استخدام واضحة باستخدام **HTML, CSS, JavaScript, PHP, MySQL, and Flutter**.
-
-- **Portfolio:** [osamamabrouk0.github.io/Portfolio](https://osamamabrouk0.github.io/Portfolio/)
-- **GitHub:** [github.com/osamamabrouk0](https://github.com/osamamabrouk0)
-
----
-
-<div align="center">
-
-**صُنع بعناية بواسطة أسامة مبروك**
-
-_O_M Portfolio_
-
-</div>
+├── assets/       # Local assets used by the portfolio
+├── index.html    # Main portfolio page
+└── README.md     # Project documentation
